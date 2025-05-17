@@ -155,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -197,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdfa6aa68bd9e62d",
+  "active": "f2c9c7152cd8f027",
   "lastOpenFiles": [
+    "Untitled.md",
     "Welcome.md"
   ]
 }
