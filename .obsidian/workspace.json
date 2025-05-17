@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb6edc9fc929a61",
+        "id": "8fa61a80f3749be3",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cb26b408df59f7",
+            "id": "bdfa6aa68bd9e62d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -83,6 +83,7 @@
       {
         "id": "f2a1c8d13fb9193a",
         "type": "tabs",
+        "dimension": 66.98841698841699,
         "children": [
           {
             "id": "4368f987b53b02bc",
@@ -136,21 +137,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f275c98391d13784",
+        "type": "tabs",
+        "dimension": 33.011583011583014,
+        "children": [
+          {
+            "id": "2a1023bcb52276af",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2c9c7152cd8f027",
+  "active": "bdfa6aa68bd9e62d",
   "lastOpenFiles": [
     "Welcome.md"
   ]
