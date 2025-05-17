@@ -1,17 +1,3 @@
 [
-  "calendar",
-  "obsidian-icon-folder",
-  "obsidian-file-color",
-  "colored-tags",
-  "file-explorer-note-count",
-  "code-styler",
-  "file-explorer-plus",
-  "ninja-cursor",
-  "omnisearch",
-  "cmdr",
-  "tag-wrangler",
-  "obsidian-tasks-plugin",
-  "obsidian-excalidraw-plugin",
-  "dataview",
-  "excalibrain"
+  "calendar"
 ]
