@@ -8,7 +8,15 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "omnisearch:show-modal",
+      "icon": "lucide-search",
+      "name": "OmniSearch Vault",
+      "mode": "any",
+      "color": "#000000"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
