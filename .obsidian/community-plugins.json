@@ -10,5 +10,9 @@
   "omnisearch",
   "cmdr",
   "tag-wrangler",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "excalibrain",
+  "templater-obsidian"
 ]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b9ee36fa9207d4",
+        "id": "e12b50dee1ddb844",
         "type": "tabs",
         "children": [
           {
-            "id": "e951fccca955f91b",
+            "id": "2130129e62925ed2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,7 +76,7 @@
       {
         "id": "f3f6dde64ea21c7e",
         "type": "tabs",
-        "dimension": 30.885311871227366,
+        "dimension": 30.885311871227362,
         "children": [
           {
             "id": "bdfa6aa68bd9e62d",
@@ -198,7 +198,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e951fccca955f91b",
+  "active": "2130129e62925ed2",
   "lastOpenFiles": [
     "Untitled.md",
     "Welcome.md"
